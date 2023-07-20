@@ -1,16 +1,16 @@
 {
-  "name": "react-native-add-shortcut",
-  "version": "0.28.0",
+  "name": "@james-kirawan/react-native-add-shortcut",
+  "version": "1.0.0",
   "description": "React Native Add Shortcut - Adding shortcuts on android",
   "nativePackage": true,
   "license": "MIT",
   "main": "index.js",
-  "author": "Shalom Yerushalmy <shalomy@wix.com>",
-  "homepage": "https://github.com/wix-incubator/react-native-add-shortcut",
-  "readme": "https://github.com/wix-incubator/react-native-add-shortcut#readme",
+  "author": "James Kirawan",
+  "homepage": "https://github.com/JamesKirawan/react-native-add-shortcut",
+  "readme": "https://github.com/JamesKirawan/react-native-add-shortcutt#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wix-incubator/react-native-add-shortcut.git"
+    "url": "https://github.com/JamesKirawan/react-native-add-shortcut.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
